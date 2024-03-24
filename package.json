@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "firebase": "^10.8.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "4.7.1",
+    "react-router-dom": "6.4.3"
+  },
+  "devDependencies": {
+    "vite": "latest",
+    "@vitejs/plugin-react": "*"
+  },
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
